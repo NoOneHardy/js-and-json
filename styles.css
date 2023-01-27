@@ -1,0 +1,11 @@
+html, body {
+    min-height: 100%;
+}
+
+* {
+    color: #d4d4d4;
+}
+
+body {
+    background: radial-gradient(#555, #000)
+}
